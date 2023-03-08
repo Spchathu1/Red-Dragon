@@ -36,7 +36,7 @@ global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "Sri lanka, Colombo" // location
 
 //bot body 
-global.alivepic = `https://ibb.co/JRK2c2T` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png`` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "true" // call block "true" / "false" ("true"  to block callers)
